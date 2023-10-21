@@ -1,7 +1,7 @@
 # aggrid-clickhouse-example
 AG Grid with ClickHouse Example
 
-[![Demo](https://github.com/cyberb/aggrid-clickhouse-example/releases/download/demo/output.gif)]
+![](https://github.com/cyberb/aggrid-clickhouse-example/releases/download/demo/output.gif)
 
 ### run clickhouse server
 
